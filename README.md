@@ -2,6 +2,18 @@
 
 ## Install foundry
 
+https://github.com/foundry-rs/foundry/releases
+
+## Clone code
+
+```
+git clone https://github.com/shidaxi/chain-dev-example.git
+
+cd chain-dev-example
+
+git submodule update --init --recursive
+```
+
 ## Deploy + Verify
 deploy + verify contract:
 
